@@ -3,7 +3,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/josh-lopez90" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="senseidev09"/></a>
 
-<a href = "mailto:lopezjoshpro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@senseidev09"  /></a>
+<a href = [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/senseidev__)
+ alt="@senseidev09"  /></a>
   </p>
 <br>
 <h2>About me 😃</h2>
@@ -18,7 +19,7 @@
 
 📝IT SUPPORT
 
-📫 Contact : *lopezjoshpro@gmail.com*
+📫 Contact : lopezjoshpro@gmail.com
 
 <!--Intro end-->
   </p>
