@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 am Josh lopez ✨ </h1> 
+<h1 align="center">Hello 👋 am senseidev ✨ </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/josh-lopez90" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="senseidev09"/></a>
@@ -37,3 +37,10 @@
 <h2 >Some projects 👨🏻‍💻</h2>
 
 <table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+      </p>
+    <p align="center">
+      <a href="https://github.com/senseidev09/wakeup" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@senseidev09" /></a>
+    </p>       
