@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 am senseidev ✨ </h1> 
+<h1 align="center">Hello 👋 am Josh lopez✨ </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/josh-lopez90" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="senseidev09"/></a>
