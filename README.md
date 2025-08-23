@@ -10,7 +10,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 I AM A Malware Analyst, Cybersecurity Specialist, Cybersecurity Consultant Cybersecurity Auditor 
+🎓 I AM A Malware Analyst, Cybersecurity Specialist, Reverse engineering, Cybersecurity Consultant
 
 🎥 PYTHON PENTESTER, PROGRAMMER JAVA
 
