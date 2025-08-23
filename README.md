@@ -10,11 +10,11 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 I AM A SECURITY ANALYST                     WINDOWS, LINUX, ANDROID 
+🎓 I AM A Malware Analyst, Cybersecurity Specialist, Cybersecurity Consultant Cybersecurity Auditor 
 
 🎥 PYTHON PENTESTER, PROGRAMMER JAVA
 
-💻 DEBUGGING TOOLS DEVELOPER
+💻 DEBUGGING TOOLS DEVELOPER WINDOWS, LINUX, ANDROID
 
 📝IT SUPPORT
 
