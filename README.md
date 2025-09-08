@@ -45,4 +45,4 @@
       <a href="https://github.com/senseidev09/wakeup" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@senseidev09" /></a>
     </p>       
    <p align="center">
-        <a href="https://github.com/senseidev09/Royaldecree" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@senseidev09"  /></a>
+   <a href="https://github.com/senseidev09/Royaldecree" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=gith
